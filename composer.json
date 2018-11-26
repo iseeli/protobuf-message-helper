@@ -9,7 +9,6 @@
             "email": "ruoge3s@gmai.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
     }
