@@ -1,0 +1,13 @@
+{
+    "name": "ruoge3s/protobuf-message-helper",
+    "description": "ide helper for google protobuf message",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ruoge3s",
+            "email": "ruoge3s@gmai.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
