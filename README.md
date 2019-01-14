@@ -1,4 +1,4 @@
-# protobuf-message-help
+# protobuf-message-ide-helper
 
 ## 相关PHP扩展
 [allegro/php-protobuf](https://github.com/allegro/php-protobuf.git)
