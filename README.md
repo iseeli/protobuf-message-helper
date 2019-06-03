@@ -6,7 +6,7 @@
 
 ## 安装使用(仅在开发环境中使用即可)
 ```bash
-composer require ruoge3s/protobuf-message-idea-helper --dev
+composer require ruoge3s/protobuf-message-helper --dev
 ```
 
 
