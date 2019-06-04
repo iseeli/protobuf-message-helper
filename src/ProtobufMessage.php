@@ -153,4 +153,26 @@ class ProtobufMessage
      * ```
      */
     public function dump() {}
+
+    /**
+     * Returns field descriptors
+     * ```
+     * [
+     *     'name' => 'request_id',
+     *     'required' => true,
+     *     'type' => \ProtobufMessage::PB_TYPE_STRING,
+     * ]
+     * ```
+     * @return array
+     */
+    public function fields() {
+        return [
+            'filed_key' => [
+                'name'      => 'filed_name',
+                'required'  => true,
+                'type'      => \ProtobufMessage::PB_TYPE_STRING,
+            ],
+            // ...
+        ];
+    }
 }
